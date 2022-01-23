@@ -10,6 +10,7 @@
 
 ## MineRL
 Pas encore de visualisation à cause de nombreux crashs
+![](img/minerl_perfs.png)
 
 ## Atari breakout
 ![](img/breakout.gif)
